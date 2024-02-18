@@ -26,3 +26,13 @@
 * Register themselves with the application and log in to get the valid session token.
 * Viewing the list of available buses and booking/cancelling a reservation.
 * Only logged-in user can access their reservations, profile updation, and other features.
+
+### Seat Availability:
+
+* Based on the Seat Occupancy shows colour in green, yellow and red based on 60% or less occupancy percentage, between 60% and 90% occupancy and greater than 90% occupancy respectively. 
+
+* Takes Bus Id as an argument to show the colour for the relevant bus.
+
+
+
+
