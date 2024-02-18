@@ -65,4 +65,6 @@ Meticulous attention has been dedicated to ensuring robust exception handling at
 
 Each module of the project incorporates thorough validation checks and graceful error responses to preemptively address potential issues. Furthermore, the use of Spring's declarative transaction management allows for the effective rollback of transactions in the event of failures, maintaining data integrity. <br/>
 
+![Screenshot 2024-02-18 105622](https://github.com/DhavalSharma19/BusReservation/assets/79095659/7983a5f7-4b1d-451f-a623-319a9c83529b)
+
 The comprehensive exception and fault-handling strategy not only enhances the overall reliability of the system but also facilitates rapid diagnosis and resolution of issues, contributing to a more resilient and maintainable Spring Boot application.
