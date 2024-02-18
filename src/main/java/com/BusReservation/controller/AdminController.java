@@ -32,14 +32,14 @@ public class AdminController {
 
     @RequestMapping(value="/BusAvailability", method = RequestMethod.POST, produces = "application/json")
     @ResponseBody
-    public String BusAvailibility(@RequestParam("busid") Integer busId){
+    public String BusAvailibility(@RequestParam("busId") Integer busId){
 
         Integer availableSeats = service.getAvailableSeats(busId);
         Integer totalSeats = service.getTotalSeats(busId);
 
-        if((totalSeats - availableSeats)/totalSeats * 100 <= 60){
+        if((((totalSeats - availableSeats)*100)/totalSeats) <= 60){
             return "Green";
-        }else if((totalSeats - availableSeats)/totalSeats * 100 <= 90){
+        }else if((((totalSeats - availableSeats)*100)/totalSeats) * 100 <= 90){
             return "Yellow";
         }else{
             return "Red";
