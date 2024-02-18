@@ -12,3 +12,17 @@
 ## ER Diagram:-
 
 ![Screenshot 2024-02-17 215148](https://github.com/DhavalSharma19/BusReservation/assets/79095659/dff769b9-4835-4b90-a883-b64dabdca7ec)
+
+## Features:-
+
+### Admin Features:
+
+* Administrator Role of the entire application.
+* Only registered admins with valid session token can add/update/delete routes and buses from the main database.
+* Admin can access the details of different users and reservations.
+
+### User Features:
+
+* Register themselves with the application and log in to get the valid session token.
+* Viewing the list of available buses and booking a reservation.
+* Only logged-in user can access their reservations, profile updation, and other features.
