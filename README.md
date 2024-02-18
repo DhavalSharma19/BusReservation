@@ -24,5 +24,5 @@
 ### User Features:
 
 * Register themselves with the application and log in to get the valid session token.
-* Viewing the list of available buses and booking a reservation.
+* Viewing the list of available buses and booking/cancelling a reservation.
 * Only logged-in user can access their reservations, profile updation, and other features.
