@@ -155,6 +155,10 @@ Used Spring Boot as it offers several advantages that make it a popular choice f
 
 Some tradeoffs were Increased Jar/War Size, and while convention-over-configuration is a strength for rapid development, it might be a trade-off for developers who prefer more explicit configuration. Some developers might find it challenging to understand the implicit conventions, especially when troubleshooting issues.
 
+### Swagger UI:
+
+#### API Root Endpoint
+http://localhost:8999/swagger-ui/index.html#/
 
 ![Screenshot 2024-02-18 175514](https://github.com/DhavalSharma19/BusReservation/assets/79095659/6f9bcd60-d5aa-4d64-a199-630e96e5f0e8)
 ![Screenshot 2024-02-18 175525](https://github.com/DhavalSharma19/BusReservation/assets/79095659/8f88203d-f0b5-402c-bd7d-a350587269f5)
