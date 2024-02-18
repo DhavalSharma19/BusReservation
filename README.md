@@ -157,9 +157,6 @@ Some tradeoffs were Increased Jar/War Size, and while convention-over-configurat
 
 ### Swagger UI:
 
-#### API Root Endpoint
-http://localhost:8999/swagger-ui/index.html#/
-
 ![Screenshot 2024-02-18 175514](https://github.com/DhavalSharma19/BusReservation/assets/79095659/6f9bcd60-d5aa-4d64-a199-630e96e5f0e8)
 ![Screenshot 2024-02-18 175525](https://github.com/DhavalSharma19/BusReservation/assets/79095659/8f88203d-f0b5-402c-bd7d-a350587269f5)
 ![Screenshot 2024-02-18 175536](https://github.com/DhavalSharma19/BusReservation/assets/79095659/e9d84361-ae4b-4803-8608-14bec40b98ed)
