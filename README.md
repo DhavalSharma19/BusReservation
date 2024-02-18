@@ -3,8 +3,8 @@
 Tech Stack Used :-
 
 * Java
-Spring Framework
-Spring Boot
-Spring Data JPA
-Hibernate
-MySQL
+* Spring Framework
+* Spring Boot
+* Spring Data JPA
+* Hibernate
+* MySQL
