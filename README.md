@@ -74,3 +74,8 @@ Some Examples:
 ![Screenshot 2024-02-18 110044](https://github.com/DhavalSharma19/BusReservation/assets/79095659/d2863089-7b4b-4cac-a97b-7b2ce855186c)
 ![Screenshot 2024-02-18 110111](https://github.com/DhavalSharma19/BusReservation/assets/79095659/cc52a168-46ba-41d5-a439-05ac6d049032)
 
+### Object Oriented Programming Language:
+
+ I employed Java to implement key object-oriented programming (OOP) principles, particularly focusing on method overriding and inheritance. <br/>
+
+The principles of inheritance were applied to extend base classes. This approach not only ensured code reusability but also allowed for the polymorphic behavior of objects. Through the use of OOP principles like encapsulation, inheritance, and method overriding, the project achieved a well-organized and extensible structure, facilitating easier maintenance and future expansions.
