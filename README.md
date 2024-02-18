@@ -132,9 +132,15 @@ The underlying software component that a database management system (DBMS) uses 
 
 Used Spring Boot as it offers several advantages that make it a popular choice for developing Java-based applications, particularly in the context of microservices and modern web development.
 
-* Rapid Development: Spring Boot's convention-over-configuration approach and a wide range of pre-built templates enable developers to start coding quickly. It reduces boilerplate code, allowing developers to focus on business logic rather than spending time on configuration.
-* Embedded Web Servers: Spring Boot includes support for embedded web servers like Tomcat, Jetty, and Undertow. This eliminates the need for external server deployment, simplifying the deployment process and making applications more self-contained.
-* Microservices Support: Spring Boot is well-suited for building microservices architectures. It provides features like embedded web servers, easy configuration management, and support for building RESTful APIs, making it easier to develop and deploy microservices.
-* Auto-Configuration: Spring Boot leverages auto-configuration to automatically set up application components based on project dependencies. This reduces manual configuration efforts and helps adhere to best practices.
-* Dependency Injection and Inversion of Control (IoC): Spring Boot builds on the core concepts of the Spring framework, emphasizing dependency injection and IoC. This promotes modular and maintainable code by reducing tight coupling between components.
-* Easy Testing: Spring Boot applications are designed with testability in mind. The framework provides support for unit testing, integration testing, and end-to-end testing, making it easier to write robust and reliable test suites.
+#### Rapid Development: 
+* Spring Boot's convention-over-configuration approach and a wide range of pre-built templates enable developers to start coding quickly. It reduces boilerplate code, allowing developers to focus on business logic rather than spending time on configuration.
+#### Embedded Web Servers: 
+* Spring Boot includes support for embedded web servers like Tomcat, Jetty, and Undertow. This eliminates the need for external server deployment, simplifying the deployment process and making applications more self-contained.
+#### Microservices Support:
+* Spring Boot is well-suited for building microservices architectures. It provides features like embedded web servers, easy configuration management, and support for building RESTful APIs, making it easier to develop and deploy microservices.
+#### Auto-Configuration: 
+* Spring Boot leverages auto-configuration to automatically set up application components based on project dependencies. This reduces manual configuration efforts and helps adhere to best practices.
+#### Dependency Injection and Inversion of Control (IoC): 
+* Spring Boot builds on the core concepts of the Spring framework, emphasizing dependency injection and IoC. This promotes modular and maintainable code by reducing tight coupling between components.
+#### Easy Testing: 
+* Spring Boot applications are designed with testability in mind. The framework provides support for unit testing, integration testing, and end-to-end testing, making it easier to write robust and reliable test suites.
