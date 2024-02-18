@@ -11,6 +11,10 @@ This is a Backend Application that enables users to book bus tickets online. The
 * Hibernate
 * MySQL
 
+## FlowChart:-
+
+![Screenshot 2024-02-18 143654](https://github.com/DhavalSharma19/BusReservation/assets/79095659/b31e41c7-3394-4860-853b-186747b589df)
+
 ## ER Diagram:-
 
 ![Screenshot 2024-02-17 215148](https://github.com/DhavalSharma19/BusReservation/assets/79095659/dff769b9-4835-4b90-a883-b64dabdca7ec)
