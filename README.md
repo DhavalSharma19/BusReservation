@@ -154,3 +154,11 @@ Used Spring Boot as it offers several advantages that make it a popular choice f
 * Spring Boot applications are designed with testability in mind. The framework provides support for unit testing, integration testing, and end-to-end testing, making it easier to write robust and reliable test suites.
 
 Some tradeoffs were Increased Jar/War Size, and while convention-over-configuration is a strength for rapid development, it might be a trade-off for developers who prefer more explicit configuration. Some developers might find it challenging to understand the implicit conventions, especially when troubleshooting issues.
+
+
+![Screenshot 2024-02-18 175514](https://github.com/DhavalSharma19/BusReservation/assets/79095659/6f9bcd60-d5aa-4d64-a199-630e96e5f0e8)
+![Screenshot 2024-02-18 175525](https://github.com/DhavalSharma19/BusReservation/assets/79095659/8f88203d-f0b5-402c-bd7d-a350587269f5)
+![Screenshot 2024-02-18 175536](https://github.com/DhavalSharma19/BusReservation/assets/79095659/e9d84361-ae4b-4803-8608-14bec40b98ed)
+![Screenshot 2024-02-18 175546](https://github.com/DhavalSharma19/BusReservation/assets/79095659/220aa32b-cc9a-40dd-b406-27c70d341aa3)
+![Screenshot 2024-02-18 175556](https://github.com/DhavalSharma19/BusReservation/assets/79095659/81508986-93a0-4aab-bab9-7fa9ed3f5895)
+![Screenshot 2024-02-18 175606](https://github.com/DhavalSharma19/BusReservation/assets/79095659/0b476b16-b53d-44da-9e90-193d3cb1bbe6)
