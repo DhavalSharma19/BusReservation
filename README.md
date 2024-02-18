@@ -87,3 +87,47 @@ Some Examples:
  I employed Java to implement key object-oriented programming (OOP) principles, particularly focusing on method overriding and inheritance. <br/>
 
 The principles of inheritance were applied to extend base classes. This approach not only ensured code reusability but also allowed for the polymorphic behavior of objects. Through the use of OOP principles like encapsulation, inheritance, and method overriding, the project achieved a well-organized and extensible structure, facilitating easier maintenance and future expansions.
+
+### Trade-Offs in System:
+
+I used MySQL, a popular open-source relational database management system (RDBMS), for this application.
+
+#### Performance vs. Scalability:
+
+*Strength: MySQL is known for its good performance for smaller to medium-sized databases.
+*Trade-off: As the size of the database and the complexity of queries increase, MySQL may face scalability challenges compared to some other database systems designed for massive scalability, such as NoSQL databases.
+
+#### ACID Compliance:
+
+* Strength: MySQL is ACID compliant, ensuring data consistency and reliability.
+* Trade-off: Achieving full ACID compliance can impact performance, especially in scenarios where high transaction throughput is required.
+
+#### Schema Changes:
+
+* Strength: MySQL supports SQL and has a well-defined schema, providing data integrity and a clear structure.
+* Trade-off: Schema changes can be cumbersome and may require downtime in some cases. This can be a challenge in situations where the application demands frequent and dynamic schema changes.
+
+#### Flexibility and NoSQL Features:
+
+* Strength: While MySQL is primarily a relational database, it has introduced features to support NoSQL-like functionality with technologies like the JSON data type.
+* Trade-off: Full NoSQL databases may offer more flexibility in handling unstructured data compared to MySQL's hybrid approach.
+
+#### Replication and High Availability:
+
+* Strength: MySQL provides replication features for creating high availability setups and read scaling.
+* Trade-off: Setting up and managing replication can be complex, and automatic failover might not be as seamless as in some other databases.
+
+#### Storage Engines:
+
+* Strength: MySQL supports multiple storage engines, each with its own strengths.
+* Trade-off: The choice of storage engine can impact performance and features, but not all engines may be suitable for every use case.
+
+#### Community vs. Enterprise Edition:
+
+* Strength: MySQL has a strong open-source community with a free Community Edition.
+* Trade-off: Some advanced features and support options are available only in the Enterprise Edition, which comes with a cost.
+
+#### Security:
+
+*Strength: MySQL has robust security features, including user authentication, access controls, and encryption.
+*Trade-off: Properly configuring and managing security settings is crucial, and misconfigurations can lead to vulnerabilities.
