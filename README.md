@@ -59,3 +59,10 @@ Base64 is a binary to a text encoding scheme that represents binary data in an A
 At the time of logout the session is deleted from the repository. <br/>
 ![Screenshot 2024-02-18 093934](https://github.com/DhavalSharma19/BusReservation/assets/79095659/0df31620-71d9-46a5-8283-a8f03d56f639)
 
+### Error and Exception Handling:
+
+Meticulous attention has been dedicated to ensuring robust exception handling at every step of the application's execution. Through the implementation of various error-handling mechanisms, including custom exception classes, global exception handlers, and precise logging, I have fortified the system against unexpected faults. <br/>
+
+Each module of the project incorporates thorough validation checks and graceful error responses to preemptively address potential issues. Furthermore, the use of Spring's declarative transaction management allows for the effective rollback of transactions in the event of failures, maintaining data integrity. <br/>
+
+The comprehensive exception and fault-handling strategy not only enhances the overall reliability of the system but also facilitates rapid diagnosis and resolution of issues, contributing to a more resilient and maintainable Spring Boot application.
