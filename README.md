@@ -39,12 +39,11 @@
 
 * Admin Authentication & Validation with session uuid.
 
-![Screenshot 2024-02-18 093846](https://github.com/DhavalSharma19/BusReservation/assets/79095659/d9da77cd-dc99-4623-9003-a66f992d5f80)
-![Screenshot 2024-02-18 093934](https://github.com/DhavalSharma19/BusReservation/assets/79095659/0df31620-71d9-46a5-8283-a8f03d56f639)
 ![Screenshot 2024-02-18 095246](https://github.com/DhavalSharma19/BusReservation/assets/79095659/762103c5-6ad0-4140-9b20-2bb2d1d26572)
 ![Screenshot 2024-02-18 095258](https://github.com/DhavalSharma19/BusReservation/assets/79095659/43e2228c-1932-417a-a44a-0aa44cc2e617)
 
 * User Authentication & Validation with session uuid.
 
-
+![Screenshot 2024-02-18 093846](https://github.com/DhavalSharma19/BusReservation/assets/79095659/d9da77cd-dc99-4623-9003-a66f992d5f80)
+![Screenshot 2024-02-18 093934](https://github.com/DhavalSharma19/BusReservation/assets/79095659/0df31620-71d9-46a5-8283-a8f03d56f639)
 
