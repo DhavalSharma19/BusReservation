@@ -1,5 +1,7 @@
 # BusReservation
 
+This is a Backend Application that enables users to book bus tickets online. The system will allow users to book available buses based on their source and destination cities, reserve seats, and cancel their reserved seats. It also provides admin to manage other users, buses and their routes.
+
 ## Tech Stack Used:-
 
 * Java
