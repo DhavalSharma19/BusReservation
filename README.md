@@ -2,7 +2,7 @@
 
 Tech Stack Used :-
 
-Java
+* Java
 Spring Framework
 Spring Boot
 Spring Data JPA
