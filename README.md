@@ -15,6 +15,10 @@
 
 ## Structure and Modules: 
 
+![Screenshot 2024-02-18 111015](https://github.com/DhavalSharma19/BusReservation/assets/79095659/675a849e-bdd8-41d5-9431-3c198c9e7c76)
+![Screenshot 2024-02-18 111026](https://github.com/DhavalSharma19/BusReservation/assets/79095659/c873170a-96f1-4c7c-bcca-8b4ce40c4a02)
+![Screenshot 2024-02-18 111042](https://github.com/DhavalSharma19/BusReservation/assets/79095659/2ab966a1-2abc-4231-9c13-20a7a9941048)
+![Screenshot 2024-02-18 111158](https://github.com/DhavalSharma19/BusReservation/assets/79095659/f4ca1335-4713-4ef9-88f8-895beb24ccc1)
 
 ## Features:-
 
