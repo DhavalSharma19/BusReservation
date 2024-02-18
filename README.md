@@ -35,5 +35,11 @@
 
 ![Screenshot 2024-02-18 085115](https://github.com/DhavalSharma19/BusReservation/assets/79095659/7d15751e-4ba2-4888-9ffd-e5aa8c50db6b)
 
+### Authentication:
+
+* Admin Authentication & Validation with session uuid.
+
+* User Authentication & Validation with session uuid.
+
 
 
