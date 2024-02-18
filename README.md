@@ -117,7 +117,8 @@ I used MySQL, a popular open-source relational database management system (RDBMS
 * Strength: MySQL provides replication features for creating high availability setups and read scaling.
 * Trade-off: Setting up and managing replication can be complex, and automatic failover might not be as seamless as in some other databases.
 
-#### Storage Engines ( the underlying software component that a database management system (DBMS) uses to create, read, update and delete (CRUD) data from a database ) :
+#### Storage Engines: 
+The underlying software component that a database management system (DBMS) uses to create, read, update and delete (CRUD) data from a database.
 
 * Strength: MySQL supports multiple storage engines, each with its own strengths.
 * Trade-off: The choice of storage engine can impact performance and features, but not all engines may be suitable for every use case.
