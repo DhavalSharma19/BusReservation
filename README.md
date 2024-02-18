@@ -31,7 +31,7 @@
 
 * Based on the Seat Occupancy shows colour in green, yellow and red based on 60% or less occupancy percentage, between 60% and 90% occupancy and greater than 90% occupancy respectively. 
 
-* Takes Bus Id as an argument to show the colour for the relevant bus.
+* Takes Bus Id as an argument to show the colour for the relevant bus by returning a string.
 
 ![Screenshot 2024-02-18 085115](https://github.com/DhavalSharma19/BusReservation/assets/79095659/7d15751e-4ba2-4888-9ffd-e5aa8c50db6b)
 
