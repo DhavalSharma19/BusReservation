@@ -94,8 +94,8 @@ I used MySQL, a popular open-source relational database management system (RDBMS
 
 #### Performance vs. Scalability:
 
-*Strength: MySQL is known for its good performance for smaller to medium-sized databases.
-*Trade-off: As the size of the database and the complexity of queries increase, MySQL may face scalability challenges compared to some other database systems designed for massive scalability, such as NoSQL databases.
+* Strength: MySQL is known for its good performance for smaller to medium-sized databases.
+* Trade-off: As the size of the database and the complexity of queries increase, MySQL may face scalability challenges compared to some other database systems designed for massive scalability, such as NoSQL databases.
 
 #### ACID Compliance:
 
@@ -129,5 +129,5 @@ I used MySQL, a popular open-source relational database management system (RDBMS
 
 #### Security:
 
-*Strength: MySQL has robust security features, including user authentication, access controls, and encryption.
-*Trade-off: Properly configuring and managing security settings is crucial, and misconfigurations can lead to vulnerabilities.
+* Strength: MySQL has robust security features, including user authentication, access controls, and encryption.
+* Trade-off: Properly configuring and managing security settings is crucial, and misconfigurations can lead to vulnerabilities.
