@@ -1,6 +1,6 @@
 # BusReservation
 
-Tech Stack Used :-
+## Tech Stack Used:-
 
 * Java
 * Spring Framework
