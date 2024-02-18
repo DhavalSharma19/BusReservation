@@ -68,3 +68,9 @@ Each module of the project incorporates thorough validation checks and graceful 
 ![Screenshot 2024-02-18 105622](https://github.com/DhavalSharma19/BusReservation/assets/79095659/7983a5f7-4b1d-451f-a623-319a9c83529b)
 
 The comprehensive exception and fault-handling strategy not only enhances the overall reliability of the system but also facilitates rapid diagnosis and resolution of issues, contributing to a more resilient and maintainable Spring Boot application.
+
+Some Examples:
+![Screenshot 2024-02-18 110024](https://github.com/DhavalSharma19/BusReservation/assets/79095659/7608d464-ce2b-439f-b6aa-80d1e032c481)
+![Screenshot 2024-02-18 110044](https://github.com/DhavalSharma19/BusReservation/assets/79095659/d2863089-7b4b-4cac-a97b-7b2ce855186c)
+![Screenshot 2024-02-18 110111](https://github.com/DhavalSharma19/BusReservation/assets/79095659/cc52a168-46ba-41d5-a439-05ac6d049032)
+
