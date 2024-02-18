@@ -144,3 +144,5 @@ Used Spring Boot as it offers several advantages that make it a popular choice f
 * Spring Boot builds on the core concepts of the Spring framework, emphasizing dependency injection and IoC. This promotes modular and maintainable code by reducing tight coupling between components.
 #### Easy Testing: 
 * Spring Boot applications are designed with testability in mind. The framework provides support for unit testing, integration testing, and end-to-end testing, making it easier to write robust and reliable test suites.
+
+Some tradeoffs were Increased Jar/War Size, and while convention-over-configuration is a strength for rapid development, it might be a trade-off for developers who prefer more explicit configuration. Some developers might find it challenging to understand the implicit conventions, especially when troubleshooting issues.
