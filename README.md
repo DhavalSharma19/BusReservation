@@ -8,3 +8,5 @@
 * Spring Data JPA
 * Hibernate
 * MySQL
+
+ER Diagram:-
